@@ -1,3 +1,3 @@
 # Python
 
-- [Starwars (230508-)]()
+- [Starwars](https://github.com/woomoon508/Skills/blob/main/Python/Starwars.md)
